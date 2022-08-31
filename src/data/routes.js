@@ -1,7 +1,8 @@
+/* eslint-disable linebreak-style */
 const routes = [
   {
     index: true,
-    label: "Michael D'Angelo",
+    label: 'Jhon Paredes',
     path: '/',
   },
   {
@@ -16,10 +17,10 @@ const routes = [
     label: 'Projects',
     path: '/projects',
   },
-  {
-    label: 'Stats',
-    path: '/stats',
-  },
+  // {
+  //   label: 'Stats',
+  //   path: '/stats',
+  // },
   {
     label: 'Contact',
     path: '/contact',

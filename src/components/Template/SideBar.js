@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 import React from 'react';
 import { Link } from 'react-router-dom';
 
@@ -12,21 +13,18 @@ const SideBar = () => (
         <img src={`${PUBLIC_URL}/images/me.jpg`} alt="" />
       </Link>
       <header>
-        <h2>Michael D&apos;Angelo</h2>
-        <p><a href="mailto:michael.l.dangelo@gmail.com">michael.l.dangelo@gmail.com</a></p>
+        <h2>JHON PAREDES</h2>
+        <p><a href="mailto:sthivenp@gmail.com">sthivenp@gmail.com</a></p>
       </header>
     </section>
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Michael. I like building things.
-        I am a <a href="https://icme.stanford.edu/">Stanford ICME</a> graduate, YC Alumni, and
-        the co-founder and CTO of <a href="https://arthena.com">Arthena</a>. Before Arthena I was
-        at <a href="https://matroid.com">Matroid</a>
-        , <a href="https://planet.com">Planet</a>
-        , <a href="https://planetaryresources.com">Planetary Resources</a>
-        , <a href="https://facebook.com">Facebook</a>
-        , and <a href="https://seds.org">SEDS</a>.
+      <p>Hi, I&apos;m Jhon. I like building,test and deploy things.
+        I am a <a href="https://www.cibertec.edu.pe/">Cibertec</a> graduate, and take some classes at <a href="https://www.unitru.edu.pe/">National University of Trujillo</a>. Before NTT DATA Peru I was
+        at <a href="https://www.itoour.com">Itoour</a>
+        , <a href="https://gerenciasac.com/">Gerencia.com</a>
+        , and <a href="http://itecsac.com/">Imagina Technologies</a>.
       </p>
       <ul className="actions">
         <li>
@@ -37,7 +35,7 @@ const SideBar = () => (
 
     <section id="footer">
       <ContactIcons />
-      <p className="copyright">&copy; Michael D&apos;Angelo <Link to="/">mldangelo.com</Link>.</p>
+      <p className="copyright">&copy; JHON PAREDES <Link to="/">sthivenparedes.com</Link>.</p>
     </section>
   </section>
 );

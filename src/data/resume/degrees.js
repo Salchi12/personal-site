@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 const degrees = [
   {
     school: 'Stanford University',

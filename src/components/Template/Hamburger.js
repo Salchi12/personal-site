@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 import React, { Suspense, lazy, useState } from 'react';
 
 import { Link } from 'react-router-dom';

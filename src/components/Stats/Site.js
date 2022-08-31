@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 import React, { useState, useCallback, useEffect } from 'react';
 
 import Table from './Table';

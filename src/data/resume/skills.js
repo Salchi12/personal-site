@@ -1,6 +1,4 @@
-// TODO: Add Athletic Skills, Office Skills,
-// Data Engineering, Data Science, ML Engineering, ... ?
-
+/* eslint-disable linebreak-style */
 const skills = [
   {
     title: 'Javascript',

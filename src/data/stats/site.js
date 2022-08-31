@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 import dayjs from 'dayjs';
 
 /* Keys match keys returned by the github api. Fields without keys are

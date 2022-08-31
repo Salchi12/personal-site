@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 import React from 'react';
 import { Link } from 'react-router-dom';
 import ReactMarkdown from 'react-markdown';
@@ -18,7 +19,7 @@ const LinkRenderer = ({ ...children }) => <Link {...children} />;
 const About = () => (
   <Main
     title="About"
-    description="Learn about Michael D'Angelo"
+    description="Learn about Jhon Paredes"
   >
     <article className="post markdown" id="about">
       <header>
