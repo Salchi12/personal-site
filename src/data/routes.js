@@ -2,7 +2,7 @@
 const routes = [
   {
     index: true,
-    label: 'Jhon Paredes',
+    label: 'Sthiven Paredes',
     path: '/',
   },
   {

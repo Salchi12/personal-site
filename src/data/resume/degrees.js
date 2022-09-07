@@ -1,17 +1,17 @@
 /* eslint-disable linebreak-style */
 const degrees = [
   {
-    school: 'Stanford University',
-    degree: 'M.S. Computational and Mathematical Engineering',
-    link: 'https://stanford.edu',
-    year: 2016,
+    school: 'Institute Cibertec',
+    degree: 'B.S. Computational and Informatics',
+    link: 'https://www.cibertec.edu.pe/',
+    year: 2022,
   },
-  {
-    school: 'University at Buffalo',
-    degree: 'B.S. Electrical Engineering, Computer Engineering',
-    link: 'https://buffalo.edu',
-    year: 2012,
-  },
+  // {
+  //   school: 'National University of Trujillo',
+  //   degree: 'B.S. Electrical Engineering, Computer Engineering',
+  //   link: 'https://buffalo.edu',
+  //   year: 2012,
+  // },
 ];
 
 export default degrees;

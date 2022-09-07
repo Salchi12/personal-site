@@ -1,6 +1,12 @@
 # prefer npm over yarn
 yarn.lock
 
+#OLD FAVICON
+/public/images/OLD
+
+#Github
+.github
+
 # eslint
 .eslintcache
 
